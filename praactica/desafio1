@@ -1,0 +1,31 @@
+
+
+
+/*--------------------------*/
+var auto ;
+auto="Corolla";
+console.log(auto);
+console.log(typeOf(auto));
+/*--------------------------*/
+
+auto="308";
+console.log(auto);
+console.log(typeOf(auto));
+/*--------------------------*/
+
+auto = "C4";
+console.log(auto);
+console.log(typeOf(auto));
+/*--------------------------*/
+
+var nombre;
+var apellido;
+nombre = "Francisco";
+apellido = "Burgos";
+console.log(nombre +" "+ apellido);
+/*--------------------------*/
+
+var fruta = "naranja";
+var tipoDeLaVariableFruta;
+tipoDeLaVariableFruta = typeOf(fruta);
+console.log(tipoDeLaVariableFruta);
